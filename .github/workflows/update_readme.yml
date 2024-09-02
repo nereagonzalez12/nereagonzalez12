@@ -1,0 +1,30 @@
+name: Update README
+
+on:
+  schedule:
+    - cron: '1 0 * * *' # Ejecutar cada día a medianoche
+  workflow_dispatch:
+
+jobs:
+  update_readme:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v3
+
+      - name: Update README
+        run: |
+          TOKEN=${{ secrets.G_TOKEN }}
+          URL="https://github-readme-stats.vercel.app/api/?username=nereagonzalez12&show_icons=true&include_all_commits=true&count_private=true&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&token=${TOKEN}"
+          sed -i "s|https://github-readme-stats.vercel.app/api/|${URL}|g" README.md
+
+      - name: Commit changes
+        run: |
+          git config --global user.name 'github-actions'
+          git config --global user.email 'actions@github.com'
+          git add README.md
+          git commit -m 'Update README with new token'
+          git push
+        env:
+          GITHUB_TOKEN: ${{ secrets.G_TOKEN }}
