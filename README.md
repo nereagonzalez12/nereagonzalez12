@@ -2,7 +2,7 @@
     <img src="https://github.com/nereagonzalez12/nereagonzalez12/blob/main/assets/DSC00191.png" alt="github profile" height="200">
 </div>
 <div align=center>
-    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=5000&pause=500&color=F1E05A&center=true&vCenter=true&width=500&lines=Hola!+Soy+Nerea;Desarrolladora+full+stack;Eso+de+ahí+es+un+conejo+:)" alt="Typing SVG" /></a>
+    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=5000&pause=500&color=FCF188&center=true&vCenter=true&width=500&lines=Hola!+Soy+Nerea;Desarrolladora+full+stack;Eso+de+ahí+es+un+conejo+:)" alt="Typing SVG" /></a>
 </div>
 
 <br/>
@@ -40,8 +40,8 @@
 
 <br/>
 <p align="center">
-<img alt="nereagonzalez12's Github Stats" src="https://github-readme-stats.vercel.app/api/?username=nereagonzalez12&show_icons=true&include_all_commits=true&count_private=true&theme=react&hide_border=true&bg_color=1F222E&title_color=F1E05A&icon_color=F1C40F" height="192px"/>
-<img alt="nereagonzalez12's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nereagonzalez12&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=F1E05A&icon_color=F1C40F" height="192px"/>
+<img alt="nereagonzalez12's Github Stats" src="https://github-readme-stats.vercel.app/api/?username=nereagonzalez12&show_icons=true&include_all_commits=true&count_private=true&theme=react&hide_border=true&bg_color=1F222E&title_color=FCF188&icon_color=45ECC7" height="192px"/>
+<img alt="nereagonzalez12's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nereagonzalez12&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=FCF188&icon_color=45ECC7" height="192px"/>
 
 
 </p>
