@@ -27,11 +27,7 @@
 <br/>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=angular,django,docker" />
-    <img src="https://skillicons.dev/icons?i=java,js,py,ts" />
-    <img src="https://skillicons.dev/icons?i=bootstrap,css,figma,html,md,sass" />
-    <img src="https://skillicons.dev/icons?i=git,github,postman,powershell,pycharm,vscode,stackoverflow,ubuntu,windows" />
-    <img src="https://skillicons.dev/icons?i=docker,postgres" />
+        <img src="https://skillicons.dev/icons?i=git,angular,bootstrap,css,django,docker,figma,github,html,java,js,md,postgres,postman,powershell,pycharm,py,sass,stackoverflow,ts,ubuntu,vscode,windows" />
   </a>
 </p>
 
