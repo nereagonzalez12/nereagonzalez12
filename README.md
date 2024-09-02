@@ -1,5 +1,5 @@
 <div align=center>
-    <img src="https://github.com/nereagonzalez12/nereagonzalez12/tree/main/assets/DSC00191.png" alt="github profile" height="200">
+    <img src="https://github.com/nereagonzalez12/nereagonzalez12/blob/main/assets/DSC00191.png" alt="github profile" height="200">
 </div>
 <div align=center>
     <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=5000&pause=500&color=F1E05A&center=true&vCenter=true&width=500&lines=Hola!+Soy+Nerea;Desarrolladora+full+stack;Eso+de+ahí+es+un+conejo+:)" alt="Typing SVG" /></a>
@@ -26,8 +26,8 @@
 
 <br/>
 <p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,angular,bootstrap,css,django,docker,figma,github,html,java,js,md,potsgres,postman,powershell,pycharm,py,sass,stackoverflow,ts,ubuntu,vscode,windows" />
+  <a href="https://skillicons.dev" align="center">
+    <img src="https://skillicons.dev/icons?i=git,angular,bootstrap,css,django,docker,figma,github,html,java,js,md,postgres,postman,powershell,pycharm,py,sass,stackoverflow,ts,ubuntu,vscode,windows" />
   </a>
 </p>
 
@@ -48,7 +48,7 @@
 
 ---
 
-<i>Puedes encontrarme por:</i><br>
+<i>🫡 Puedes encontrarme por:</i><br>
 
 <a href="https://www.linkedin.com/in/nerea-gonzález-198054276/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
 <a href="mailto:ereadoce.ng@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white" alt="gmail"></a>
