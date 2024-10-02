@@ -1,8 +1,9 @@
-# Nerea González - Full Stack Developer
-
-![Profile Image](https://github.com/nereagonzalez12/nereagonzalez12/blob/main/assets/DSC00191.png)
-
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=5000&pause=500&color=FCF188&center=false&vCenter=true&width=500&lines=Hello!+I'm+Nerea;Full+stack+developer;That's+a+rabbit+over+there+:))](https://git.io/typing-svg)
+<div align=center>
+    <img src="https://github.com/nereagonzalez12/nereagonzalez12/blob/main/assets/DSC00191.png" alt="github profile" height="200">
+</div>
+<div align=center>
+    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=5000&pause=500&color=FCF188&center=true&vCenter=true&width=500&lines=Hola!+Soy+Nerea;Desarrolladora+full+stack;Eso+de+ahí+es+un+conejo+:)" alt="Typing SVG" /></a>
+</div>
 
 ## [English](#english) | [Español](#español)
 
