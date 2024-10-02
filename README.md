@@ -19,6 +19,7 @@ I am a Full Stack Developer, recently graduated in Web Application Development. 
 ## 🧁 Projects 
 
 Here are some of the projects I've developed. Feel free to explore:
+<br>
 
 #### 🌌 Ricktionary - A Rick and Morty Encyclopedia
 
@@ -39,6 +40,7 @@ Ricktionary is a full stack project built using **Django** (Python) for the back
 
 Oniria is a full stack project built using **Django** (Python) for the backend and **Angular 16** for the frontend. Is a website designed to serve as a **personal dream journal**, where users can keep track of their dreams, with access to various tags for organizing them, a list of people involved, and charts illustrating the percentages of personal dreams and their types over time.
 
+---
 <br>
 
 
@@ -53,7 +55,7 @@ Here are some of the technologies and tools I use frequently:
 ### 📈 Statistics 
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=nereagonzalez12&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=FCF188&icon_color=45ECC7)
-![Nerea's GitHub stats](https://github-readme-stats.vercel.app/api?username=nereagonzalez12&show_icons=true&theme=radical)
+
 
 </br>
 
@@ -80,6 +82,7 @@ Aquí tienes la parte en español:
 ## 🧁 Proyectos
 
 Aquí algunos de los proyectos que he desarrollado. ¡Explóralos libremente!
+<br>
 
 #### 🌌 Ricktionary - Enciclopedia de Rick y Morty
 
@@ -97,7 +100,9 @@ Ricktionary es un proyecto full stack desarrollado con **Django** (Python) en el
 
 Oniria es un proyecto full stack construido con **Django** (Python) en el backend y **Angular 16** en el frontend. Es una web diseñada para funcionar como un **diario personal de sueños**, donde los usuarios pueden registrar sus sueños, con acceso a etiquetas para organizarlos, una lista de personas involucradas, y gráficos que muestran el porcentaje de sueños personales y sus tipos a lo largo del tiempo.
 
+---
 <br>
+
 
 ### 📎 Tecnologías y Herramientas 
 
