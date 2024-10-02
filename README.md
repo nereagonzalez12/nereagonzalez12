@@ -31,7 +31,8 @@ I am a Full Stack Developer, recently graduated in Web Application Development. 
 ![Django](https://skillicons.dev/icons?i=django)
 ![Angular](https://skillicons.dev/icons?i=angular)
 ![TypeScript](https://skillicons.dev/icons?i=typescript)
-![Tailwind CSS](https://skillicons.dev/icons?i=css)
+![CSS](https://skillicons.dev/icons?i=css)
+![TAILWIND](https://skillicons.dev/icons?i=tailwind)
 ![HTML5](https://skillicons.dev/icons?i=html)
 ![PostgreSQL](https://skillicons.dev/icons?i=postgre)
 
@@ -48,6 +49,16 @@ Ricktionary is a full stack project built using **Django** (Python) for the back
 
 [![Oniria Repo](https://github-readme-stats.vercel.app/api/pin/?username=nereagonzalez12&repo=oniria&theme=react&hide_border=true&bg_color=1F222E&title_color=FCF188&icon_color=45ECC7)](https://github.com/nereagonzalez12/rickandmortyapi)
 
+**Technologies used:**
+
+![Python](https://skillicons.dev/icons?i=python)
+![Django](https://skillicons.dev/icons?i=django)
+![Angular](https://skillicons.dev/icons?i=angular)
+![TypeScript](https://skillicons.dev/icons?i=typescript)
+![CSS](https://skillicons.dev/icons?i=css)
+![BOOTSTRAP](https://skillicons.dev/icons?i=bootstrap)
+![HTML5](https://skillicons.dev/icons?i=html)
+![PostgreSQL](https://skillicons.dev/icons?i=postgre)
 
 Oniria is a full stack project built using **Django** (Python) for the backend and **Angular 16** for the frontend. Is a website designed to serve as a **personal dream journal**, where users can keep track of their dreams, with access to various tags for organizing them, a list of people involved, and charts illustrating the percentages of personal dreams and their types over time.
 <br>
@@ -97,6 +108,17 @@ Soy Full Stack Developer, recién graduada en Desarrollo de Aplicaciones Web. Ac
 
 [![Ricktionary Repo](https://github-readme-stats.vercel.app/api/pin/?username=nereagonzalez12&repo=rickandmortyapi&theme=react&hide_border=true&bg_color=1F222E&title_color=FCF188&icon_color=45ECC7)](https://github.com/nereagonzalez12/rickandmortyapi)
 
+**Technologías usadas:**
+
+![Python](https://skillicons.dev/icons?i=python)
+![Django](https://skillicons.dev/icons?i=django)
+![Angular](https://skillicons.dev/icons?i=angular)
+![TypeScript](https://skillicons.dev/icons?i=typescript)
+![CSS](https://skillicons.dev/icons?i=css)
+![TAILWIND](https://skillicons.dev/icons?i=tailwind)
+![HTML5](https://skillicons.dev/icons?i=html)
+![PostgreSQL](https://skillicons.dev/icons?i=postgre)
+
 Ricktionary es un proyecto full stack desarrollado con **Django** (Python) en el backend y **Angular 16** en el frontend. Es una enciclopedia que presenta personajes, ubicaciones y episodios de Rick y Morty. Utiliza datos de la [API de Rick y Morty](https://rickandmortyapi.com) y ofrece una interfaz elegante y funcional usando **Tailwind CSS** y **HTML**, similar a una Pokédex.
 
 <br>
@@ -108,6 +130,17 @@ Ricktionary es un proyecto full stack desarrollado con **Django** (Python) en el
 #### 🌚 Oniria - Diario de Sueños
 
 [![Oniria Repo](https://github-readme-stats.vercel.app/api/pin/?username=nereagonzalez12&repo=oniria&theme=react&hide_border=true&bg_color=1F222E&title_color=FCF188&icon_color=45ECC7)](https://github.com/nereagonzalez12/oniria)
+
+**Technologías usadas:**
+
+![Python](https://skillicons.dev/icons?i=python)
+![Django](https://skillicons.dev/icons?i=django)
+![Angular](https://skillicons.dev/icons?i=angular)
+![TypeScript](https://skillicons.dev/icons?i=typescript)
+![CSS](https://skillicons.dev/icons?i=css)
+![BOOTSTRAP](https://skillicons.dev/icons?i=bootstrap)
+![HTML5](https://skillicons.dev/icons?i=html)
+![PostgreSQL](https://skillicons.dev/icons?i=postgre)
 
 Oniria es un proyecto full stack construido con **Django** (Python) en el backend y **Angular 16** en el frontend. Es una web diseñada para funcionar como un **diario personal de sueños**, donde los usuarios pueden registrar sus sueños, con acceso a etiquetas para organizarlos, una lista de personas involucradas, y gráficos que muestran el porcentaje de sueños personales y sus tipos a lo largo del tiempo.
 <br>
