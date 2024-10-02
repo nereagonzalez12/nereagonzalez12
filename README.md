@@ -25,6 +25,15 @@ I am a Full Stack Developer, recently graduated in Web Application Development. 
 
 [![Ricktionary Repo](https://github-readme-stats.vercel.app/api/pin/?username=nereagonzalez12&repo=rickandmortyapi&theme=react&hide_border=true&bg_color=1F222E&title_color=FCF188&icon_color=45ECC7)](https://github.com/nereagonzalez12/rickandmortyapi)
 
+**Technologies used:**
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
 
 Ricktionary is a full stack project built using **Django** (Python) for the backend and **Angular 16** for the frontend. It serves as an encyclopedia for Rick and Morty characters, locations, and episodes. It pulls data from the [Rick and Morty API](https://rickandmortyapi.com) and presents it in a sleek and functional interface using **Tailwind CSS** and **HTML**, with an experience similar to a Pokedex.
 
