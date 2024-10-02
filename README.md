@@ -23,7 +23,8 @@ I am a Full Stack Developer, recently graduated in Web Application Development. 
 
 #### 🌌 Ricktionary - A Rick and Morty Encyclopedia
 
-[![Ricktionary Repo](https://github-readme-stats.vercel.app/api/pin/?username=nereagonzalez12&repo=rickandmortyapi&theme=react&hide_border=true&bg_color=1F222E&title_color=FCF188&icon_color=45ECC7)](https://github.com/nereagonzalez12/rickandmortyapi)
+[![Ricktionary Repo](https://github-readme-stats.vercel.app/api/pin/?username=nereagonzalez12&repo=rickandmortyapi&theme=dark&hide_border=true&bg_color=304d1bff&title_color=c0f661ff&icon_color=68ac52ff&text_color=c6f96bff)](https://github.com/nereagonzalez12/rickandmortyapi)
+
 
 
 Ricktionary is a full stack project built using **Django** (Python) for the backend and **Angular 16** for the frontend. It serves as an encyclopedia for Rick and Morty characters, locations, and episodes. It pulls data from the [Rick and Morty API](https://rickandmortyapi.com) and presents it in a sleek and functional interface using **Tailwind CSS** and **HTML**, with an experience similar to a Pokedex.
@@ -32,16 +33,16 @@ Ricktionary is a full stack project built using **Django** (Python) for the back
 
 🌌 **Explore it here:** [Ricktionary Live Demo](https://ricktionary.vercel.app)
 
-
+<br>
 ##
-
+<br>
 #### 🌚 Oniria - A Dream Diary 
 
 [![Oniria Repo](https://github-readme-stats.vercel.app/api/pin/?username=nereagonzalez12&repo=oniria&theme=react&hide_border=true&bg_color=1F222E&title_color=FCF188&icon_color=45ECC7)](https://github.com/nereagonzalez12/rickandmortyapi)
 
 
 Oniria is a full stack project built using **Django** (Python) for the backend and **Angular 16** for the frontend. Is a website designed to serve as a **personal dream journal**, where users can keep track of their dreams, with access to various tags for organizing them, a list of people involved, and charts illustrating the percentages of personal dreams and their types over time.
-
+<br>
 ---
 <br>
 
@@ -93,15 +94,15 @@ Ricktionary es un proyecto full stack desarrollado con **Django** (Python) en el
 <br>
 
 🌌 **Descúbrelo aquí:** [Demo de Ricktionary](https://ricktionary.vercel.app)
-
+<br>
 ##
-
+<br>
 #### 🌚 Oniria - Diario de Sueños
 
 [![Oniria Repo](https://github-readme-stats.vercel.app/api/pin/?username=nereagonzalez12&repo=oniria&theme=react&hide_border=true&bg_color=1F222E&title_color=FCF188&icon_color=45ECC7)](https://github.com/nereagonzalez12/oniria)
 
 Oniria es un proyecto full stack construido con **Django** (Python) en el backend y **Angular 16** en el frontend. Es una web diseñada para funcionar como un **diario personal de sueños**, donde los usuarios pueden registrar sus sueños, con acceso a etiquetas para organizarlos, una lista de personas involucradas, y gráficos que muestran el porcentaje de sueños personales y sus tipos a lo largo del tiempo.
-
+<br>
 ---
 <br>
 
