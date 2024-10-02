@@ -19,7 +19,6 @@ I am a Full Stack Developer, recently graduated in Web Application Development. 
 
 ## 🧁 Projects 
 
-Here are some of the projects I've developed. Feel free to explore:
 <br>
 
 #### 🌌 Ricktionary - A Rick and Morty Encyclopedia
@@ -28,6 +27,8 @@ Here are some of the projects I've developed. Feel free to explore:
 
 
 Ricktionary is a full stack project built using **Django** (Python) for the backend and **Angular 16** for the frontend. It serves as an encyclopedia for Rick and Morty characters, locations, and episodes. It pulls data from the [Rick and Morty API](https://rickandmortyapi.com) and presents it in a sleek and functional interface using **Tailwind CSS** and **HTML**, with an experience similar to a Pokedex.
+
+<br>
 
 🌌 **Explore it here:** [Ricktionary Live Demo](https://ricktionary.vercel.app)
 
@@ -76,13 +77,11 @@ You can connect with me on:
 Soy Full Stack Developer, recién graduada en Desarrollo de Aplicaciones Web. Actualmente estoy en la búsqueda de nuevas oportunidades laborales 👀 mientras sigo desarrollando proyectos personales para mejorar mis habilidades en programación y diseño.
 
 <br>
-Aquí tienes la parte en español:
 
 ---
 
 ## 🧁 Proyectos
 
-Aquí algunos de los proyectos que he desarrollado. ¡Explóralos libremente!
 <br>
 
 #### 🌌 Ricktionary - Enciclopedia de Rick y Morty
@@ -90,6 +89,8 @@ Aquí algunos de los proyectos que he desarrollado. ¡Explóralos libremente!
 [![Ricktionary Repo](https://github-readme-stats.vercel.app/api/pin/?username=nereagonzalez12&repo=rickandmortyapi&theme=react&hide_border=true&bg_color=1F222E&title_color=FCF188&icon_color=45ECC7)](https://github.com/nereagonzalez12/rickandmortyapi)
 
 Ricktionary es un proyecto full stack desarrollado con **Django** (Python) en el backend y **Angular 16** en el frontend. Es una enciclopedia que presenta personajes, ubicaciones y episodios de Rick y Morty. Utiliza datos de la [API de Rick y Morty](https://rickandmortyapi.com) y ofrece una interfaz elegante y funcional usando **Tailwind CSS** y **HTML**, similar a una Pokédex.
+
+<br>
 
 🌌 **Descúbrelo aquí:** [Demo de Ricktionary](https://ricktionary.vercel.app)
 
