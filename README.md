@@ -19,7 +19,7 @@ I am a Full Stack Developer, recently graduated in Web Application Development. 
 
 ## 🧁 Projects 
 
-<br>
+
 
 #### 🌌 Ricktionary - A Rick and Morty Encyclopedia
 
@@ -42,11 +42,9 @@ Ricktionary is a full stack project built using **Django** (Python) for the back
 
 🌌 **Explore it here:** [Ricktionary Live Demo](https://ricktionary.vercel.app)
 
-<br>
 
 ##
 
-<br>
 
 #### 🌚 Oniria - A Dream Diary 
 
@@ -64,10 +62,12 @@ Ricktionary is a full stack project built using **Django** (Python) for the back
 ![PostgreSQL](https://skillicons.dev/icons?i=postgre)
 
 Oniria is a full stack project built using **Django** (Python) for the backend and **Angular 16** for the frontend. Is a website designed to serve as a **personal dream journal**, where users can keep track of their dreams, with access to various tags for organizing them, a list of people involved, and charts illustrating the percentages of personal dreams and their types over time.
-<br>
----
+
 <br>
 
+---
+
+<br>
 
 ### 📎 Technologies & Tools 
 
@@ -105,7 +105,7 @@ Soy Full Stack Developer, recién graduada en Desarrollo de Aplicaciones Web. Ac
 
 ## 🧁 Proyectos
 
-<br>
+
 
 #### 🌌 Ricktionary - Enciclopedia de Rick y Morty
 
@@ -124,15 +124,15 @@ Soy Full Stack Developer, recién graduada en Desarrollo de Aplicaciones Web. Ac
 
 Ricktionary es un proyecto full stack desarrollado con **Django** (Python) en el backend y **Angular 16** en el frontend. Es una enciclopedia que presenta personajes, ubicaciones y episodios de Rick y Morty. Utiliza datos de la [API de Rick y Morty](https://rickandmortyapi.com) y ofrece una interfaz elegante y funcional usando **Tailwind CSS** y **HTML**, similar a una Pokédex.
 
-<br>
+
 
 🌌 **Descúbrelo aquí:** [Demo de Ricktionary](https://ricktionary.vercel.app)
 
-<br>
+
 
 ##
 
-<br>
+
 
 #### 🌚 Oniria - Diario de Sueños
 
@@ -150,9 +150,11 @@ Ricktionary es un proyecto full stack desarrollado con **Django** (Python) en el
 ![PostgreSQL](https://skillicons.dev/icons?i=postgre)
 
 Oniria es un proyecto full stack construido con **Django** (Python) en el backend y **Angular 16** en el frontend. Es una web diseñada para funcionar como un **diario personal de sueños**, donde los usuarios pueden registrar sus sueños, con acceso a etiquetas para organizarlos, una lista de personas involucradas, y gráficos que muestran el porcentaje de sueños personales y sus tipos a lo largo del tiempo.
+
 <br>
+
 ---
-<br>
+
 
 
 ### 📎 Tecnologías y Herramientas 
