@@ -43,8 +43,11 @@ Ricktionary is a full stack project built using **Django** (Python) for the back
 🌌 **Explore it here:** [Ricktionary Live Demo](https://ricktionary.vercel.app)
 
 <br>
+
 ##
+
 <br>
+
 #### 🌚 Oniria - A Dream Diary 
 
 [![Oniria Repo](https://github-readme-stats.vercel.app/api/pin/?username=nereagonzalez12&repo=oniria&theme=react&hide_border=true&bg_color=1F222E&title_color=FCF188&icon_color=45ECC7)](https://github.com/nereagonzalez12/rickandmortyapi)
@@ -124,9 +127,13 @@ Ricktionary es un proyecto full stack desarrollado con **Django** (Python) en el
 <br>
 
 🌌 **Descúbrelo aquí:** [Demo de Ricktionary](https://ricktionary.vercel.app)
+
 <br>
+
 ##
+
 <br>
+
 #### 🌚 Oniria - Diario de Sueños
 
 [![Oniria Repo](https://github-readme-stats.vercel.app/api/pin/?username=nereagonzalez12&repo=oniria&theme=react&hide_border=true&bg_color=1F222E&title_color=FCF188&icon_color=45ECC7)](https://github.com/nereagonzalez12/oniria)
