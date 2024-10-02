@@ -84,6 +84,7 @@ Here are some of the technologies and tools I use frequently:
 
 </br>
 
+---
 
 ### 🫡 Find Me 
 
@@ -101,11 +102,8 @@ Soy Full Stack Developer, recién graduada en Desarrollo de Aplicaciones Web. Ac
 
 <br>
 
----
 
 ## 🧁 Proyectos
-
-
 
 #### 🌌 Ricktionary - Enciclopedia de Rick y Morty
 
@@ -124,15 +122,11 @@ Soy Full Stack Developer, recién graduada en Desarrollo de Aplicaciones Web. Ac
 
 Ricktionary es un proyecto full stack desarrollado con **Django** (Python) en el backend y **Angular 16** en el frontend. Es una enciclopedia que presenta personajes, ubicaciones y episodios de Rick y Morty. Utiliza datos de la [API de Rick y Morty](https://rickandmortyapi.com) y ofrece una interfaz elegante y funcional usando **Tailwind CSS** y **HTML**, similar a una Pokédex.
 
-
+<br>
 
 🌌 **Descúbrelo aquí:** [Demo de Ricktionary](https://ricktionary.vercel.app)
 
-
-
 ##
-
-
 
 #### 🌚 Oniria - Diario de Sueños
 
@@ -155,6 +149,7 @@ Oniria es un proyecto full stack construido con **Django** (Python) en el backen
 
 ---
 
+<br>
 
 
 ### 📎 Tecnologías y Herramientas 
@@ -171,6 +166,8 @@ Estas son algunas de las tecnologías y herramientas que uso con frecuencia:
 
 
 <br>
+
+---
 
 ### 🫡 Contáctame 
 
