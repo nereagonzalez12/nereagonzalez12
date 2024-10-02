@@ -1,147 +1,122 @@
-<div align="center">
-    <img src="https://github.com/nereagonzalez12/nereagonzalez12/blob/main/assets/DSC00191.png" alt="github profile" height="200">
-</div>
+# Nerea González - Full Stack Developer
 
-<div align="center">
-    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=5000&pause=500&color=FCF188&center=true&vCenter=true&width=500&lines=Hello!+I'm+Nerea;Full+stack+developer;That's+a+rabbit+over+there+:)" alt="Typing SVG" /></a>
-</div>
+![Profile Image](https://github.com/nereagonzalez12/nereagonzalez12/blob/main/assets/DSC00191.png)
 
-<br/>
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=5000&pause=500&color=FCF188&center=false&vCenter=true&width=500&lines=Hello!+I'm+Nerea;Full+stack+developer;That's+a+rabbit+over+there+:))](https://git.io/typing-svg)
 
-<div align="center">
-  
-## About Me 🐸</br>
-</div>
+## [English](#english) | [Español](#español)
 
-<p align="center">
-    I'm a Full Stack Developer, recently graduated in Web Application Development. I'm currently seeking new job opportunities 👀 while continuing to develop personal projects to keep learning and improving my skills in programming and design.
-</p>
+<br>
 
-<br/><br/>
+## <a name="english">🐸 About Me </a>
 
-<div align="center">
+I am a Full Stack Developer, recently graduated in Web Application Development. I am currently seeking new job opportunities 👀 while continuing to develop personal projects to enhance my skills in programming and design.
 
-## Technologies & Tools I Use 📎</br>
-</div>
+<br>
 
-<p align="center">
-  <a href="https://skillicons.dev">
-        <img src="https://skillicons.dev/icons?i=git,angular,bootstrap,css,tailwind,django,docker,figma,github,html,java,js,md,postgres,postman,powershell,pycharm,py,sass,stackoverflow,ts,ubuntu,vscode,windows" />
-  </a>
-</p>
 
-<br/><br/>
 
-<div align="center">
+## 🧁 Projects 
 
-## Statistics 📈</br>
-</div>
+Here are some of the projects I've developed. Feel free to explore:
 
-<p align="center">
-<img alt="nereagonzalez12's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nereagonzalez12&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=FCF188&icon_color=45ECC7" height="192px"/>
-</p>
+#### 🌌 Ricktionary - A Rick and Morty Encyclopedia
+
+[![Ricktionary Repo](https://github-readme-stats.vercel.app/api/pin/?username=nereagonzalez12&repo=rickandmortyapi&theme=react&hide_border=true&bg_color=1F222E&title_color=FCF188&icon_color=45ECC7)](https://github.com/nereagonzalez12/rickandmortyapi)
+
+
+Ricktionary is a full stack project built using **Django** (Python) for the backend and **Angular 16** for the frontend. It serves as an encyclopedia for Rick and Morty characters, locations, and episodes. It pulls data from the [Rick and Morty API](https://rickandmortyapi.com) and presents it in a sleek and functional interface using **Tailwind CSS** and **HTML**, with an experience similar to a Pokedex.
+
+🌌 **Explore it here:** [Ricktionary Live Demo](https://ricktionary.vercel.app)
+
+
+##
+
+#### 🌚 Oniria - A Dream Diary 
+
+[![Oniria Repo](https://github-readme-stats.vercel.app/api/pin/?username=nereagonzalez12&repo=oniria&theme=react&hide_border=true&bg_color=1F222E&title_color=FCF188&icon_color=45ECC7)](https://github.com/nereagonzalez12/rickandmortyapi)
+
+
+Oniria is a full stack project built using **Django** (Python) for the backend and **Angular 16** for the frontend. Is a website designed to serve as a **personal dream journal**, where users can keep track of their dreams, with access to various tags for organizing them, a list of people involved, and charts illustrating the percentages of personal dreams and their types over time.
+
+<br>
+
+
+### 📎 Technologies & Tools 
+
+Here are some of the technologies and tools I use frequently:
+
+![Technologies](https://skillicons.dev/icons?i=git,angular,bootstrap,css,tailwind,django,docker,figma,github,html,java,js,md,postgres,postman,powershell,pycharm,py,sass,stackoverflow,ts,ubuntu,vscode,windows)
+
+</br>
+
+### 📈 Statistics 
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=nereagonzalez12&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=FCF188&icon_color=45ECC7)
+![Nerea's GitHub stats](https://github-readme-stats.vercel.app/api?username=nereagonzalez12&show_icons=true&theme=radical)
+
+</br>
+
+
+### 🫡 Find Me 
+
+You can connect with me on:
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nerea-gonzález-198054276/)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:ereadoce.ng@gmail.com)
+
+---
+</br>
+
+## <a name="español">🐸 Sobre mí </a>
+
+Soy Full Stack Developer, recién graduada en Desarrollo de Aplicaciones Web. Actualmente estoy en la búsqueda de nuevas oportunidades laborales 👀 mientras sigo desarrollando proyectos personales para mejorar mis habilidades en programación y diseño.
+
+<br>
+Aquí tienes la parte en español:
 
 ---
 
-<div align="center">
-  
-## Projects 💻</br>
-</div>
+## 🧁 Proyectos
 
-<p align="center">
-Check out some of the projects I've developed, like this one:
-</p>
+Aquí algunos de los proyectos que he desarrollado. ¡Explóralos libremente!
 
-<div align="center">
-  
-### Ricktionary - A Rick and Morty Encyclopedia</br>
-<a href="https://github.com/nereagonzalez12/rickandmortyapi">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=nereagonzalez12&repo=rickipedia&theme=react&hide_border=true&bg_color=1F222E&title_color=FCF188&icon_color=45ECC7" alt="Ricktionary Repo" />
-</a>
+#### 🌌 Ricktionary - Enciclopedia de Rick y Morty
 
-<p align="center">
-Rickipedia is a full stack project built using Django (Python) for the backend and Angular 16 for the frontend. It serves as a Rick and Morty encyclopedia, featuring characters, locations, and episodes. The project pulls data from the <a href="https://rickandmortyapi.com/">Rick and Morty API</a>, with a custom API built on top of it. Tailwind CSS and HTML are used for styling, creating a sleek and functional interface similar to a Pokedex for easy browsing. Go to 🌌<a href="https://ricktionary.vercel.app">Ricktionary</a>
-</p>
+[![Ricktionary Repo](https://github-readme-stats.vercel.app/api/pin/?username=nereagonzalez12&repo=rickandmortyapi&theme=react&hide_border=true&bg_color=1F222E&title_color=FCF188&icon_color=45ECC7)](https://github.com/nereagonzalez12/rickandmortyapi)
 
-</div>
+Ricktionary es un proyecto full stack desarrollado con **Django** (Python) en el backend y **Angular 16** en el frontend. Es una enciclopedia que presenta personajes, ubicaciones y episodios de Rick y Morty. Utiliza datos de la [API de Rick y Morty](https://rickandmortyapi.com) y ofrece una interfaz elegante y funcional usando **Tailwind CSS** y **HTML**, similar a una Pokédex.
 
-<br/><br/>
+🌌 **Descúbrelo aquí:** [Demo de Ricktionary](https://ricktionary.vercel.app)
 
----
+##
 
-🫡<i> You can find me on:</i><br>
+#### 🌚 Oniria - Diario de Sueños
 
-<a href="https://www.linkedin.com/in/nerea-gonzález-198054276/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-<a href="mailto:ereadoce.ng@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white" alt="gmail"></a>
+[![Oniria Repo](https://github-readme-stats.vercel.app/api/pin/?username=nereagonzalez12&repo=oniria&theme=react&hide_border=true&bg_color=1F222E&title_color=FCF188&icon_color=45ECC7)](https://github.com/nereagonzalez12/oniria)
 
----
+Oniria es un proyecto full stack construido con **Django** (Python) en el backend y **Angular 16** en el frontend. Es una web diseñada para funcionar como un **diario personal de sueños**, donde los usuarios pueden registrar sus sueños, con acceso a etiquetas para organizarlos, una lista de personas involucradas, y gráficos que muestran el porcentaje de sueños personales y sus tipos a lo largo del tiempo.
 
-## En Español 🇪🇸
+<br>
 
-<div align="center">
-  
-## Sobre mí 🐸</br>
-</div>
+### 📎 Tecnologías y Herramientas 
 
-<p align="center">
-    Soy Full Stack Developer, recién graduada en Desarrollo de Aplicaciones Web. Actualmente estoy en la búsqueda de nuevas oportunidades laborales 👀 mientras sigo desarrollando proyectos personales para continuar aprendiendo y mejorando mis habilidades en programación y diseño.
-</p>
+Estas son algunas de las tecnologías y herramientas que uso con frecuencia:
 
-<br/><br/>
+![Tecnologías](https://skillicons.dev/icons?i=git,angular,bootstrap,css,tailwind,django,docker,figma,github,html,java,js,md,postgres,postman,powershell,pycharm,py,sass,stackoverflow,ts,ubuntu,vscode,windows)
 
-<div align="center">
+<br>
 
-## Tecnologías y Herramientas que uso 📎</br>
-</div>
+### 📈 Estadísticas 
 
-<p align="center">
-  <a href="https://skillicons.dev">
-        <img src="https://skillicons.dev/icons?i=git,angular,bootstrap,css,tailwind,django,docker,figma,github,html,java,js,md,postgres,postman,powershell,pycharm,py,sass,stackoverflow,ts,ubuntu,vscode,windows" />
-  </a>
-</p>
+![Lenguajes más usados](https://github-readme-stats.vercel.app/api/top-langs/?username=nereagonzalez12&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=FCF188&icon_color=45ECC7)
 
-<br/><br/>
 
-<div align="center">
+<br>
 
-## Estadísticas 📈</br>
-</div>
+### 🫡 Contáctame 
 
-<p align="center">
-<img alt="nereagonzalez12's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nereagonzalez12&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=FCF188&icon_color=45ECC7" height="192px"/>
-</p>
+Puedes encontrarme en:
 
----
-
-<div align="center">
-  
-## Proyectos 💻</br>
-</div>
-
-<p align="center">
-Descubre algunos de los proyectos que he desarrollado:
-</p>
-
-<div align="center">
-  
-### Ricktionary - Enciclopedia de Rick y Morty</br>
-<a href="https://github.com/nereagonzalez12/rickandmortyapi">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=nereagonzalez12&repo=rickipedia&theme=react&hide_border=true&bg_color=1F222E&title_color=FCF188&icon_color=45ECC7" alt="Ricktionary Repo" />
-</a>
-
-<p align="center">
-Ricktionary es un proyecto full stack desarrollado con Django (Python) en el backend y Angular 16 en el frontend. Es una enciclopedia sobre Rick y Morty que presenta personajes, ubicaciones y episodios. El proyecto obtiene datos de la <a href="https://rickandmortyapi.com/">API de Rick y Morty</a>, y se ha construido una API personalizada encima de esta. Se utilizan Tailwind CSS y HTML para el diseño, creando una interfaz funcional y elegante similar a una Pokédex para facilitar la navegación. Visita 🌌<a href="https://ricktionary.vercel.app">Ricktionary</a>
-</p>
-
-</div>
-
-<br/><br/>
-
----
-
-🫡<i> Puedes encontrarme por:</i><br>
-
-<a href="https://www.linkedin.com/in/nerea-gonzález-198054276/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-<a href="mailto:ereadoce.ng@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white" alt="gmail"></a>
-
-</div>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nerea-gonzález-198054276/)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:ereadoce.ng@gmail.com)
