@@ -23,8 +23,7 @@ I am a Full Stack Developer, recently graduated in Web Application Development. 
 
 #### 🌌 Ricktionary - A Rick and Morty Encyclopedia
 
-[![Ricktionary Repo](https://github-readme-stats.vercel.app/api/pin/?username=nereagonzalez12&repo=rickandmortyapi&theme=dark&hide_border=true&bg_color=304d1bff&title_color=c0f661ff&icon_color=68ac52ff&text_color=c6f96bff)](https://github.com/nereagonzalez12/rickandmortyapi)
-
+[![Ricktionary Repo](https://github-readme-stats.vercel.app/api/pin/?username=nereagonzalez12&repo=rickandmortyapi&theme=react&hide_border=true&bg_color=1F222E&title_color=FCF188&icon_color=45ECC7)](https://github.com/nereagonzalez12/rickandmortyapi)
 
 
 Ricktionary is a full stack project built using **Django** (Python) for the backend and **Angular 16** for the frontend. It serves as an encyclopedia for Rick and Morty characters, locations, and episodes. It pulls data from the [Rick and Morty API](https://rickandmortyapi.com) and presents it in a sleek and functional interface using **Tailwind CSS** and **HTML**, with an experience similar to a Pokedex.
