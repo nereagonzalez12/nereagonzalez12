@@ -21,7 +21,7 @@ I am a Full Stack Developer, recently graduated in Web Application Development. 
 
 
 
-#### 🌌 Ricktionary - A Rick and Morty Encyclopedia
+#### [<img src="./rickandmortyfront/rym/src/favicon.ico" alt="ricktionary favicon" height="35">](https://ricktionary.vercel.app) Ricktionary - A Rick and Morty Encyclopedia
 
 [![Ricktionary Repo](https://github-readme-stats.vercel.app/api/pin/?username=nereagonzalez12&repo=rickandmortyapi&theme=react&hide_border=true&bg_color=1F222E&title_color=FCF188&icon_color=45ECC7)](https://github.com/nereagonzalez12/rickandmortyapi)
 
