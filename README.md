@@ -40,7 +40,7 @@ Ricktionary is a full stack project built using **Django** (Python) for the back
 
 <br>
 
-🌌 **Explore it here:** [Ricktionary Live Demo](https://ricktionary.vercel.app)
+➡️ **Explore it here:** [Ricktionary Live Demo](https://ricktionary.vercel.app)
 
 
 ##
@@ -124,7 +124,7 @@ Ricktionary es un proyecto full stack desarrollado con **Django** (Python) en el
 
 <br>
 
-🌌 **Descúbrelo aquí:** [Demo de Ricktionary](https://ricktionary.vercel.app)
+➡️ **Descúbrelo aquí:** [Demo de Ricktionary](https://ricktionary.vercel.app)
 
 ##
 
