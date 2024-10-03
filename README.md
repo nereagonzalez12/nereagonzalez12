@@ -23,7 +23,7 @@ I am a Full Stack Developer, recently graduated in Web Application Development. 
 
 #### [🛸](https://ricktionary.vercel.app) Ricktionary - A Rick and Morty Encyclopedia
 
-[![Ricktionary Repo](https://github-readme-stats.vercel.app/api/pin/?username=nereagonzalez12&repo=rickandmortyapi&theme=react&hide_border=true&bg_color=1F222E&title_color=7BBB6B&icon_color=C0F661)](https://github.com/nereagonzalez12/rickandmortyapi)
+[![Ricktionary Repo](https://github-readme-stats.vercel.app/api/pin/?username=nereagonzalez12&repo=rickandmortyapi&theme=react&hide_border=true&bg_color=1F222E&title_color=C0F661&icon_color=C0F661)](https://github.com/nereagonzalez12/rickandmortyapi)
 
 **Technologies used:**
 
@@ -48,7 +48,7 @@ Ricktionary is a full stack project built using **Django** (Python) for the back
 
 #### 🌚 Oniria - A Dream Diary 
 
-[![Oniria Repo](https://github-readme-stats.vercel.app/api/pin/?username=nereagonzalez12&repo=oniria&theme=react&hide_border=true&bg_color=1F222E&title_color=FCF188&icon_color=45ECC7)](https://github.com/nereagonzalez12/oniria)
+[![Oniria Repo](https://github-readme-stats.vercel.app/api/pin/?username=nereagonzalez12&repo=oniria&theme=react&hide_border=true&bg_color=1F222E&title_color=8D92E7&icon_color=F8D977)](https://github.com/nereagonzalez12/oniria)
 
 **Technologies used:**
 
@@ -107,7 +107,7 @@ Soy Full Stack Developer, recién graduada en Desarrollo de Aplicaciones Web. Ac
 
 #### [🛸](https://ricktionary.vercel.app) Ricktionary Ricktionary - Enciclopedia de Rick y Morty
 
-[![Ricktionary Repo](https://github-readme-stats.vercel.app/api/pin/?username=nereagonzalez12&repo=rickandmortyapi&theme=react&hide_border=true&bg_color=1F222E&title_color=7BBB6B&icon_color=C0F661)](https://github.com/nereagonzalez12/rickandmortyapi)
+[![Ricktionary Repo](https://github-readme-stats.vercel.app/api/pin/?username=nereagonzalez12&repo=rickandmortyapi&theme=react&hide_border=true&bg_color=1F222E&title_color=C0F661&icon_color=C0F661)](https://github.com/nereagonzalez12/rickandmortyapi)
 
 **Technologías usadas:**
 
@@ -130,7 +130,7 @@ Ricktionary es un proyecto full stack desarrollado con **Django** (Python) en el
 
 #### 🌚 Oniria - Diario de Sueños
 
-[![Oniria Repo](https://github-readme-stats.vercel.app/api/pin/?username=nereagonzalez12&repo=oniria&theme=react&hide_border=true&bg_color=1F222E&title_color=FCF188&icon_color=45ECC7)](https://github.com/nereagonzalez12/oniria)
+[![Oniria Repo](https://github-readme-stats.vercel.app/api/pin/?username=nereagonzalez12&repo=oniria&theme=react&hide_border=true&bg_color=1F222E&title_color=8D92E7&icon_color=F8D977)](https://github.com/nereagonzalez12/oniria)
 
 **Technologías usadas:**
 
