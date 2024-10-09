@@ -109,7 +109,7 @@ Soy Full Stack Developer, recién graduada en Desarrollo de Aplicaciones Web. Ac
 
 [![Ricktionary Repo](https://github-readme-stats.vercel.app/api/pin/?username=nereagonzalez12&repo=rickandmortyapi&theme=react&hide_border=true&bg_color=1F222E&title_color=C0F661&icon_color=C0F661)](https://github.com/nereagonzalez12/rickandmortyapi)
 
-**Technologías usadas:**
+**Tecnologías usadas:**
 
 ![Python](https://skillicons.dev/icons?i=python)
 ![Django](https://skillicons.dev/icons?i=django)
@@ -132,7 +132,7 @@ Ricktionary es un proyecto full stack desarrollado con **Django** (Python) en el
 
 [![Oniria Repo](https://github-readme-stats.vercel.app/api/pin/?username=nereagonzalez12&repo=oniria&theme=react&hide_border=true&bg_color=1F222E&title_color=8D92E7&icon_color=F8D977)](https://github.com/nereagonzalez12/oniria)
 
-**Technologías usadas:**
+**Tecnologías usadas:**
 
 ![Python](https://skillicons.dev/icons?i=python)
 ![Django](https://skillicons.dev/icons?i=django)
