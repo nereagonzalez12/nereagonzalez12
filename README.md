@@ -73,7 +73,7 @@ Oniria is a full stack project built using **Django** (Python) for the backend a
 
 Here are some of the technologies and tools I use frequently:
 
-![Technologies](https://skillicons.dev/icons?i=git,angular,bootstrap,css,tailwind,django,docker,figma,github,html,java,js,md,postgres,postman,powershell,pycharm,py,sass,stackoverflow,ts,ubuntu,vscode,windows)
+![Technologies](https://skillicons.dev/icons?i=git,angular,bootstrap,css,tailwind,django,laravel,docker,figma,github,html,php,java,js,md,postgres,postman,powershell,pycharm,py,sass,stackoverflow,ts,ubuntu,vscode,windows)
 
 </br>
 
@@ -156,7 +156,7 @@ Oniria es un proyecto full stack construido con **Django** (Python) en el backen
 
 Estas son algunas de las tecnologías y herramientas que uso con frecuencia:
 
-![Tecnologías](https://skillicons.dev/icons?i=git,angular,bootstrap,css,tailwind,django,docker,figma,github,html,java,js,md,postgres,postman,powershell,pycharm,py,sass,stackoverflow,ts,ubuntu,vscode,windows)
+![Tecnologías](https://skillicons.dev/icons?i=git,angular,bootstrap,css,tailwind,django,laravel,docker,figma,github,html,php,java,js,md,postgres,postman,powershell,pycharm,py,sass,stackoverflow,ts,ubuntu,vscode,windows)
 
 <br>
 
